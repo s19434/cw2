@@ -25,6 +25,7 @@ namespace Cwiczenie_2.models
 				this.studies=studies;
 			}
 
+
 			[XmlIgnore, JsonPropertyName("createdAt")]
 			public string GDate=>this.gDate;
 
@@ -37,6 +38,7 @@ namespace Cwiczenie_2.models
 			[XmlIgnore, JsonPropertyName("activeStudies")]
 			public List<Item> StudiesList=>this.studies;
 		}
+
 
 		[XmlAttribute("createdAt"), JsonIgnore]
         public string Date{get; set;}
