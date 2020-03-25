@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student email="kowalski@wp.pl">
+    <fname>Jan</fname>
+    <Nazwisko>Kowalski</Nazwisko>
+  </Student>
+</uczelnia><?xml version="1.0"?>
+<uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student email="kowalski@wp.pl">
+    <fname>Jan</fname>
+    <Nazwisko>Kowalski</Nazwisko>
+  </Student>
+</uczelnia>

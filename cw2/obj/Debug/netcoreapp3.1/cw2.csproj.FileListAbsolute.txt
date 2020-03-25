@@ -1,0 +1,13 @@
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.exe
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.deps.json
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.runtimeconfig.json
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.runtimeconfig.dev.json
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.dll
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.pdb
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.AssemblyInfo.cs
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.dll
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.pdb
+C:\Users\Vera\Desktop\STUDY\4 SEM\APDB\Zajęcia 2\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.genruntimeconfig.cache
